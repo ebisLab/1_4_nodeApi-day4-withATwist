@@ -1,3 +1,4 @@
+require('dotnev').config();
 const server = require('./api/server.js');
 
 const port = 4000;
